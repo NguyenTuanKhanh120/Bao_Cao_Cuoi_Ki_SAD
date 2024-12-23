@@ -140,8 +140,8 @@
      
      
   
-4. Xác định các phần tử thiết kế
-5. Thiết kế hệ thống con
-6. Thiết kế các lớp
-7. Kết luận
+3. Xác định các phần tử thiết kế
+4. Thiết kế hệ thống con
+5. Thiết kế các lớp
+6. Kết luận
    
